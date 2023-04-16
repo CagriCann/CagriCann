@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CagriCann
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
+- 📫 How to reach me;
+- Discord: CagriCann#8827
